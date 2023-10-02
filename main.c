@@ -24,6 +24,9 @@ int main()
 	for (c=0;c<5;c++){
         printf("\n%s",nome[c]);
 
+
+
+
 	}
 
 	}
